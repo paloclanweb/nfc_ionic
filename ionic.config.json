@@ -1,6 +1,8 @@
 {
   "name": "NFC READER",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "v2": true,
   "typescript": true,
